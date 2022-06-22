@@ -1,0 +1,24 @@
+{
+  "name": "utl-solflare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "utl-aggregator": "../utl-aggregator"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.25.0",
+    "@typescript-eslint/parser": "^5.25.0",
+    "eslint": "^8.15.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-node": "^11.1.0",
+    "prettier": "^2.6.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
