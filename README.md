@@ -1,1 +1,1 @@
-# utl-solflare
+# Solfare - Unified Token List
