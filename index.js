@@ -5,12 +5,16 @@ const {
     CoinGeckoProvider,
     LegacyTokenProvider,
     ChainId,
+    Tag,
 } = require('utl-aggregator')
 
 async function init() {
     const coinGeckoApiKey = process.env.COINGECKO_API_KEY ?? null
     const rpcUrl = process.env.RPC_URL
     const baseTokenListCdnUrl = process.env.TOKEN_LIST_CDN_URL
+
+    // Can be used to clear cache
+    // LegacyTokenProvider.clearCache()
 
     const generator = new Generator([
         new CoinGeckoProvider(coinGeckoApiKey, rpcUrl, {
@@ -19,12 +23,17 @@ async function init() {
             batchAccountsInfo: 1000,
             batchCoinGecko: 30,
         }),
-        new LegacyTokenProvider(baseTokenListCdnUrl, rpcUrl, {
-            throttle: 100,
-            batchAccountsInfo: 1000,
-            batchSignatures: 200,
-            batchTokenHolders: 4,
-        }),
+        new LegacyTokenProvider(
+            baseTokenListCdnUrl,
+            rpcUrl,
+            {
+                throttle: 200,
+                batchAccountsInfo: 1000,
+                batchSignatures: 200,
+                batchTokenHolders: 2,
+            },
+            [Tag.LP_TOKEN]
+        ),
     ])
 
     const tokenMap = await generator.generateTokenList(ChainId.MAINNET)
