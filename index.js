@@ -1,12 +1,12 @@
 require('dotenv').config()
-const fs = require('fs')
 const {
     Generator,
     CoinGeckoProvider,
     LegacyTokenProvider,
     ChainId,
     Tag,
-} = require('utl-aggregator')
+} = require('@solflare-wallet/utl-aggregator')
+const fs = require('fs')
 
 async function init() {
     const coinGeckoApiKey = process.env.COINGECKO_API_KEY ?? null
@@ -20,17 +20,17 @@ async function init() {
         new CoinGeckoProvider(coinGeckoApiKey, rpcUrl, {
             throttle: 200,
             throttleCoinGecko: 65 * 1000,
-            batchAccountsInfo: 1000,
-            batchCoinGecko: 30,
+            batchAccountsInfo: 200, // 1000
+            batchCoinGecko: 30, // 400
         }),
         new LegacyTokenProvider(
             baseTokenListCdnUrl,
             rpcUrl,
             {
                 throttle: 200,
-                batchAccountsInfo: 1000,
-                batchSignatures: 200,
-                batchTokenHolders: 2,
+                batchAccountsInfo: 1000, // 1000
+                batchSignatures: 200, // 250
+                batchTokenHolders: 2, // 4
             },
             [Tag.LP_TOKEN]
         ),
