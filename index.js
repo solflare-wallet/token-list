@@ -1,8 +1,8 @@
 require('dotenv').config()
 const {
     Generator,
-    CoinGeckoProvider,
-    LegacyTokenProvider,
+    ProviderCoinGecko,
+    ProviderLegacyToken,
     ChainId,
     Tag,
 } = require('@solflare-wallet/utl-aggregator')
@@ -10,33 +10,50 @@ const fs = require('fs')
 
 async function init() {
     const coinGeckoApiKey = process.env.COINGECKO_API_KEY ?? null
-    const rpcUrl = process.env.RPC_URL
+    const rpcUrlMainnet = process.env.RPC_URL_MAINNET
+    const rpcUrlDevnet = process.env.RPC_URL_DEVNET
     const baseTokenListCdnUrl = process.env.TOKEN_LIST_CDN_URL
 
     // Can be used to clear cache
-    // LegacyTokenProvider.clearCache()
+    // ProviderLegacyToken.clearCache(ChainId.MAINNET)
+    // ProviderLegacyToken.clearCache(ChainId.DEVNET)
 
     const generator = new Generator([
-        new CoinGeckoProvider(coinGeckoApiKey, rpcUrl, {
+        new ProviderCoinGecko(coinGeckoApiKey, rpcUrlMainnet, {
             throttle: 200,
             throttleCoinGecko: 65 * 1000,
             batchAccountsInfo: 200, // 1000
-            batchCoinGecko: 30, // 400
+            batchCoinGecko: 2, // 400
         }),
-        new LegacyTokenProvider(
+        new ProviderLegacyToken(
             baseTokenListCdnUrl,
-            rpcUrl,
+            rpcUrlMainnet,
             {
-                throttle: 200,
-                batchAccountsInfo: 1000, // 1000
+                throttle: 2000,
+                batchAccountsInfo: 200, // 1000
                 batchSignatures: 200, // 250
-                batchTokenHolders: 2, // 4
+                batchTokenHolders: 1, // 4
             },
-            [Tag.LP_TOKEN]
+            [Tag.LP_TOKEN],
+            ChainId.MAINNET
+        ),
+        new ProviderLegacyToken(
+            baseTokenListCdnUrl,
+            rpcUrlDevnet,
+            {
+                throttle: 2000,
+                batchAccountsInfo: 1000, // 1000
+                batchSignatures: 250, // 250
+                batchTokenHolders: 1, // 4
+            },
+            [Tag.LP_TOKEN],
+            ChainId.DEVNET,
+            60,
+            20
         ),
     ])
 
-    const tokenMap = await generator.generateTokenList(ChainId.MAINNET)
+    const tokenMap = await generator.generateTokenList()
 
     fs.writeFile(
         './solana-tokenlist.json',
