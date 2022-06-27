@@ -1,7 +1,7 @@
 {
-  "name": "utl-solflare",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@solflare-wallet/token-list",
+  "version": "0.0.3",
+  "description": "Generates token list using unified token list aggregator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -19,6 +19,6 @@
     "prettier": "^2.6.2"
   },
   "keywords": [],
-  "author": "",
+  "author": "Solflare Developers <developers@solflare.com>",
   "license": "ISC"
 }
