@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "dotenv": "^16.0.1",
-    "@solflare-wallet/utl-aggregator": "^0.0.4"
+    "@solflare-wallet/utl-aggregator": "^0.0.7"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
