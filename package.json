@@ -4,11 +4,13 @@
   "description": "Generates token list using unified token list aggregator",
   "main": "index.js",
   "scripts": {
+    "cron": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "dotenv": "^16.0.1",
-    "@solflare-wallet/utl-aggregator": "^0.0.8"
+    "@solflare-wallet/utl-aggregator": "^0.0.8",
+    "cron": "^2.1.0",
+    "dotenv": "^16.0.1"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.25.0",
