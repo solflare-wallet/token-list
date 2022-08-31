@@ -9,6 +9,8 @@ const { CronJob } = require('cron')
 const fs = require('fs')
 
 async function handle(fileName = null) {
+    console.log(`${name} | start | ${new Date().toISOString()}`)
+
     const coinGeckoApiKey = process.env.COINGECKO_API_KEY ?? null
     const rpcUrlMainnet = process.env.RPC_URL_MAINNET
     const rpcUrlDevnet = process.env.RPC_URL_DEVNET
@@ -55,7 +57,7 @@ async function handle(fileName = null) {
 
     const tokenMap = await generator.generateTokenList()
 
-    console.log(`${name} | generated`)
+    console.log(`${name} | generated | ${new Date().toISOString()}`)
 
     if (fileName) {
         fs.writeFile(

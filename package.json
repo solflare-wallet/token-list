@@ -4,7 +4,8 @@
   "description": "Generates token list using unified token list aggregator",
   "main": "index.js",
   "scripts": {
-    "cron": "node index.js",
+    "start": "node index.js",
+    "cron": "node cron.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
