@@ -1,6 +1,6 @@
 {
   "name": "@solflare-wallet/token-list",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Generates token list using unified token list aggregator",
   "main": "index.js",
   "scripts": {
