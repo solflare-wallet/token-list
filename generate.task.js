@@ -2,6 +2,7 @@ const {
     Generator,
     ProviderCoinGecko,
     ProviderLegacyToken,
+    ProviderTrusted,
     Tag,
     ChainId,
 } = require('@solflare-wallet/utl-aggregator')
@@ -11,6 +12,7 @@ const fs = require('fs')
 async function handle(fileName = null) {
     console.log(`${name} | start | ${new Date().toISOString()}`)
 
+    const trustedTokenList = process.env.TRUSTED_TOKEN_LIST_URL ?? null
     const coinGeckoApiKey = process.env.COINGECKO_API_KEY ?? null
     const rpcUrlMainnet = process.env.RPC_URL_MAINNET
     const rpcUrlDevnet = process.env.RPC_URL_DEVNET
@@ -21,6 +23,12 @@ async function handle(fileName = null) {
     // ProviderLegacyToken.clearCache(ChainId.DEVNET)
 
     const generator = new Generator([
+        ...(trustedTokenList
+            ? [
+                  new ProviderTrusted(trustedTokenList, [], ChainId.MAINNET),
+                  new ProviderTrusted(trustedTokenList, [], ChainId.DEVNET),
+              ]
+            : []),
         new ProviderCoinGecko(coinGeckoApiKey, rpcUrlMainnet, {
             throttle: 200,
             throttleCoinGecko: 65 * 1000,
