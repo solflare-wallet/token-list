@@ -28,6 +28,15 @@
       "extensions": {
         "coingeckoId": "xhashtag"
       }
+    },
+    {
+      "chainId": 101,
+      "name": "Sunrise gSOL",
+      "symbol": "GSOL",
+      "address": "gso1xA56hacfgTHTF4F7wN5r4jbnJsKh99vR595uybA",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/46QNhUyat533ptVC2myiNVb5BvSP7PAFzM5ILCZTrGU",
+      "tags": []
     }
   ]
 }
