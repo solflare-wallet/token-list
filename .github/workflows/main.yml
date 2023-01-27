@@ -1,0 +1,23 @@
+name: Update tokenlist cron
+run-name: Update tokenlist cron by @${{ github.actor }}
+
+jobs:
+  keep_file_updated:
+    runs-on: ubuntu-latest
+    name: Update token list job
+    steps:
+    - name: Checkout repo
+      id: checkout
+      uses: actions/checkout@v2
+    - name: Update tokenlist
+      id: update_file
+      uses: TheLastProject/keep-remote-file-locally-up-to-date-action@v1
+      with:
+        git_user: github-action
+        git_email: no-reply@github.com
+        url: https://utl.solcast.dev/solana-tokenlist.json
+        file_in_repo: solana-tokenlist.json
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '30 9 * * *'
