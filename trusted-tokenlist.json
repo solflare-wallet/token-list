@@ -37,6 +37,15 @@
       "decimals": 9,
       "logoURI": "https://arweave.net/46QNhUyat533ptVC2myiNVb5BvSP7PAFzM5ILCZTrGU",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "KEREK",
+      "symbol": "KEREK",
+      "address": "6ZZPxgySvjyv3gAvgoJXFPWcCRSjZyaUdqQrwqWaABwA",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/X4ut0yYNhPPsiXuQ27ZKGEVW-DSlkZbFjs_e8Ahwass",
+      "tags": []
     }
   ]
 }
