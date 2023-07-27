@@ -3,6 +3,7 @@ const {
     ProviderCoinGecko,
     ProviderLegacyToken,
     ProviderTrusted,
+    ProviderIgnore,
     Tag,
     ChainId,
 } = require('@solflare-wallet/utl-aggregator')
@@ -10,9 +11,10 @@ const { CronJob } = require('cron')
 const fs = require('fs')
 
 async function handle(fileName = null) {
-    console.log(`${name} | start | ${new Date().toISOString()}`)
+    console.log(`${name} | start  ${inProgress} | ${new Date().toISOString()}`)
 
     const trustedTokenList = process.env.TRUSTED_TOKEN_LIST_URL ?? null
+    const ignoreTokenList = process.env.IGNORE_TOKEN_LIST_URL ?? null
     const coinGeckoApiKey = process.env.COINGECKO_API_KEY ?? null
     const rpcUrlMainnet = process.env.RPC_URL_MAINNET
     const rpcUrlDevnet = process.env.RPC_URL_DEVNET
@@ -61,11 +63,19 @@ async function handle(fileName = null) {
             60,
             20
         ),
-    ])
+    ],
+        [
+            ...(ignoreTokenList
+                ? [
+                    new ProviderIgnore(ignoreTokenList, [], ChainId.MAINNET),
+                    new ProviderIgnore(ignoreTokenList, [], ChainId.DEVNET),
+                ]
+                : []),
+        ])
 
     const tokenMap = await generator.generateTokenList()
 
-    console.log(`${name} | generated | ${new Date().toISOString()}`)
+    console.log(`${name} | generated ${inProgress} | ${new Date().toISOString()}`)
 
     if (fileName) {
         fs.writeFile(
@@ -92,14 +102,16 @@ const cronJob = () =>
         process.env.CRON_TIME ?? '0 0 */4 * * *',
         async () => {
             if (inProgress) {
+                console.log(`${name} | skip already running ${inProgress} | ${Date.now()}`)
                 return
             }
-            inProgress = true
+            inProgress = Date.now()
             try {
                 await handle('solana-tokenlist.json')
             } catch (err) {
-                console.log(`${name} | errored`, err)
+                console.log(`${name} | errored ${inProgress}`, err)
             } finally {
+                console.log(`${name} | finished ${inProgress} | ${Date.now()}`)
                 inProgress = false
             }
         },
@@ -110,6 +122,6 @@ const cronJob = () =>
 
 const name = 'generate-utl'
 
-let inProgress = false
+let inProgress = null
 
 module.exports = { handle, cronJob }
