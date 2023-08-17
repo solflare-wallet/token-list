@@ -37,6 +37,15 @@
       "decimals": 9,
       "logoURI": "https://arweave.net/46QNhUyat533ptVC2myiNVb5BvSP7PAFzM5ILCZTrGU",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Blaze",
+      "symbol": "BLZE",
+      "address": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA",
+      "decimals": 9,
+      "logoURI": "https://solblaze.org/assets/blze.png",
+      "tags": []
     }
   ]
 }
