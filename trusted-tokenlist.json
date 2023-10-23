@@ -45,7 +45,10 @@
       "address": "BLZEEuZUBVqFhj8adcCFPJvPVCiCyVmh3hkJMrU8KuJA",
       "decimals": 9,
       "logoURI": "https://solblaze.org/assets/blze.png",
-      "tags": []
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "blaze"
+      }
     }
   ]
 }
