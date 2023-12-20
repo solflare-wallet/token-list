@@ -19,5 +19,5 @@ jobs:
         file_in_repo: solana-tokenlist.json
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '30 12 * * *'
+  # schedule:
+  #   - cron: '30 12 * * *'
