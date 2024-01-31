@@ -37,6 +37,24 @@
       "decimals": 9,
       "logoURI": "https://arweave.net/46QNhUyat533ptVC2myiNVb5BvSP7PAFzM5ILCZTrGU",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Cloned Arbitrum",
+      "symbol": "clARB",
+      "address": "9cMWa1wuWcio3vgEpiFg7PqKbcoafuUw5sLYFkXJ2J8M",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/16547/standard/photo_2023-03-29_21.47.00.jpeg?1696516109",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Cloned Optimism",
+      "symbol": "clOP",
+      "address": "4cwVHQtwiK7r9aAUsu4cetk1JtLWPymopWcpTSsihCdL",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/25244/standard/Optimism.png",
+      "tags": []
     }
   ]
 }
