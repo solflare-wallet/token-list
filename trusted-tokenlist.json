@@ -55,6 +55,15 @@
       "decimals": 8,
       "logoURI": "https://assets.coingecko.com/coins/images/25244/standard/Optimism.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Edgevana Staked SOL",
+      "symbol": "edgeSOL",
+      "address": "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/JqUwm41OHf2jFLDognx7BKD6N9LiUDDRMTI8k2B7fHE",
+      "tags": []
     }
   ]
 }
