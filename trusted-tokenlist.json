@@ -64,6 +64,15 @@
       "decimals": 9,
       "logoURI": "https://arweave.net/JqUwm41OHf2jFLDognx7BKD6N9LiUDDRMTI8k2B7fHE",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Shinobi Performance Pool SOL",
+      "symbol": "xSOL",
+      "address": "xSoL18r4U1k2ALa4yF857VDZJqCKecLtty92nscre3o",
+      "decimals": 9,
+      "logoURI": "https://shdw-drive.genesysgo.net/ApzuatJDEiBWRgQV3Yy73eWhZhSdA8wdpTbYNCEH2VUH/xSOL_3d.png",
+      "tags": []
     }
   ]
 }
