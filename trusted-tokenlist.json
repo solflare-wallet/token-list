@@ -64,6 +64,15 @@
       "decimals": 9,
       "logoURI": "https://arweave.net/JqUwm41OHf2jFLDognx7BKD6N9LiUDDRMTI8k2B7fHE",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Shinobi Performance Pool Token",
+      "symbol": "xSHIN",
+      "address": "xSoL18r4U1k2ALa4yF857VDZJqCKecLtty92nscre3o",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/AqDc3JEHur3AMytdpjd-uUnYMdEoA_eXpGqIR2xU89w",
+      "tags": []
     }
   ]
 }
