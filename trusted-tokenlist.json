@@ -67,6 +67,15 @@
     },
     {
       "chainId": 101,
+      "name": "Juicy Stake Staked SOL",
+      "symbol": "jucySOL",
+      "address": "jucy5XJ76pHVvtPZb5TKRcGQExkwit2P5s4vY8UzmpC",
+      "decimals": 9,
+      "logoURI": "https://shdw-drive.genesysgo.net/5ohvXVJ7f3HxnwYGnXKdECWC3KFcU95dHu7S7x69Y1sA/logo_rev.svg",
+      "tags": []
+    },
+    {
+      "chainId": 101,
       "name": "bonkSOL",
       "symbol": "bonkSOL",
       "address": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
