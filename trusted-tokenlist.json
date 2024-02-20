@@ -64,6 +64,15 @@
       "decimals": 9,
       "logoURI": "https://arweave.net/JqUwm41OHf2jFLDognx7BKD6N9LiUDDRMTI8k2B7fHE",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "bonkSOL",
+      "symbol": "bonkSOL",
+      "address": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4",
+      "tags": []
     }
   ]
 }
