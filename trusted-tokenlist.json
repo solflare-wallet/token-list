@@ -73,6 +73,15 @@
       "decimals": 9,
       "logoURI": "https://shdw-drive.genesysgo.net/5ohvXVJ7f3HxnwYGnXKdECWC3KFcU95dHu7S7x69Y1sA/logo_rev.svg",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "bonkSOL",
+      "symbol": "bonkSOL",
+      "address": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
+      "decimals": 9,
+      "logoURI": "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4",
+      "tags": []
     }
   ]
 }
