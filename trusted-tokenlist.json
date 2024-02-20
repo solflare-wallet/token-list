@@ -64,6 +64,15 @@
       "decimals": 9,
       "logoURI": "https://arweave.net/JqUwm41OHf2jFLDognx7BKD6N9LiUDDRMTI8k2B7fHE",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Juicy Stake Staked SOL",
+      "symbol": "jucySOL",
+      "address": "jucy5XJ76pHVvtPZb5TKRcGQExkwit2P5s4vY8UzmpC",
+      "decimals": 9,
+      "logoURI": "https://shdw-drive.genesysgo.net/5ohvXVJ7f3HxnwYGnXKdECWC3KFcU95dHu7S7x69Y1sA/logo_rev.svg",
+      "tags": []
     }
   ]
 }
