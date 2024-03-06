@@ -82,6 +82,18 @@
       "decimals": 9,
       "logoURI": "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Infinity",
+      "symbol": "INF",
+      "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+      "decimals": 9,
+      "logoURI": "https://cloudflare-ipfs.com/ipfs/bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "socean-staked-sol"
+      }
     }
   ]
 }
