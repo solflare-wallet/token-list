@@ -58,6 +58,15 @@
     },
     {
       "chainId": 101,
+      "name": "Cloned Sui",
+      "symbol": "clSUI",
+      "address": "JzwfZvJGdsqbrKZQUvzJpWhbHcZUix7CYcCaoiNpjxg",
+      "decimals": 8,
+      "logoURI": "https://assets.coingecko.com/coins/images/26375/standard/sui_asset.jpeg?1696525453",
+      "tags": []
+    },
+    {
+      "chainId": 101,
       "name": "Edgevana Staked SOL",
       "symbol": "edgeSOL",
       "address": "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt",
