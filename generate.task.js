@@ -3,6 +3,7 @@ const {
     ProviderCoinGecko,
     ProviderLegacyToken,
     ProviderTrusted,
+		ProviderJupiterTokenList,
     ProviderIgnore,
     Tag,
     ChainId,
@@ -13,7 +14,8 @@ const fs = require('fs')
 async function handle(fileName = null) {
     console.log(`${name} | start  ${inProgress} | ${new Date().toISOString()}`)
 
-    const trustedTokenList = process.env.TRUSTED_TOKEN_LIST_URL ?? null
+		const jupiterTokenListUrl = process.env.JUPITER_TOKEN_LIST_URL ?? "https://token.jup.ag/strict"
+		const trustedTokenList = process.env.TRUSTED_TOKEN_LIST_URL ?? null
     const ignoreTokenList = process.env.IGNORE_TOKEN_LIST_URL ?? null
     const coinGeckoApiKey = process.env.COINGECKO_API_KEY ?? null
     const rpcUrlMainnet = process.env.RPC_URL_MAINNET
@@ -63,6 +65,9 @@ async function handle(fileName = null) {
             60,
             20
         ),
+					new ProviderJupiterTokenList(
+							jupiterTokenListUrl
+					),
     ],
         [
             ...(ignoreTokenList
