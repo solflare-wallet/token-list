@@ -94,6 +94,21 @@
       "extensions": {
         "coingeckoId": "socean-staked-sol"
       }
+    },
+    {
+      "chainId": 101,
+      "name": "Blubby",
+      "symbol": "BLUBBY",
+      "address": "BQLAWyNpVyKsdG9k9aFgXpsTeJbVbVnH3nVLpUs4kfhS",
+      "decimals": 7,
+      "logoURI": "https://bafkreiejgyx7ox5d2nqgyqthcrs3p22qxtvkhioizwg4zzkwoqjiaxi4iu.ipfs.nftstorage.link",
+      "tags": ["animation", "games"],
+      "extensions": {
+        "discord": "https://discord.gg/AqCPrUj3",
+        "telegram": "https://t.me/BlubbyGoop",
+        "twitter": "https://twitter.com/BlubbyGoop",
+        "website": "https://blubby.space"
+      }
     }
   ]
 }
