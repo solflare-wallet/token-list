@@ -27,7 +27,15 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "xhashtag"
-      }
+      },
+      {     
+      "chainId": 101,
+      "name": "Solana Power Boost",
+      "symbol": "GUACA",
+      "address": "GUACAwFcHeHgN6FWhcw5Uwt8r9YHF1x66NWkW8fLT2e6",
+      "decimals": 5,
+      "logoURI":"https://arweave.net/GJ0ASZcMGjGlcXY8ZStcotobyf13XwJD348bVhXn1Y0"",
+      "tags": []   
     },
     {
       "chainId": 101,
