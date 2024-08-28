@@ -14,7 +14,7 @@ const fs = require('fs')
 async function handle(fileName = null) {
     console.log(`${name} | start  ${inProgress} | ${new Date().toISOString()}`)
 
-		const jupiterTokenListUrl = process.env.JUPITER_TOKEN_LIST_URL ?? "https://token.jup.ag/strict"
+		const jupiterTokenListUrl = process.env.JUPITER_TOKEN_LIST_URL ?? "https://tokens.jup.ag/tokens?tags=strict"
 		const trustedTokenList = process.env.TRUSTED_TOKEN_LIST_URL ?? null
     const ignoreTokenList = process.env.IGNORE_TOKEN_LIST_URL ?? null
     const coinGeckoApiKey = process.env.COINGECKO_API_KEY ?? null
@@ -33,12 +33,12 @@ async function handle(fileName = null) {
                   new ProviderTrusted(trustedTokenList, [], ChainId.DEVNET),
               ]
             : []),
-        new ProviderCoinGecko(coinGeckoApiKey, rpcUrlMainnet, {
-            throttle: 200,
-            throttleCoinGecko: 65 * 1000,
-            batchAccountsInfo: 200, // 1000
-            batchCoinGecko: 2, // 400
-        }),
+        // new ProviderCoinGecko(coinGeckoApiKey, rpcUrlMainnet, {
+        //     throttle: 200,
+        //     throttleCoinGecko: 65 * 1000,
+        //     batchAccountsInfo: 200, // 1000
+        //     batchCoinGecko: 2, // 400
+        // }),
         new ProviderLegacyToken(
             baseTokenListCdnUrl,
             rpcUrlMainnet,
