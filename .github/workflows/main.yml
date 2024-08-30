@@ -20,4 +20,4 @@ jobs:
 on:
   workflow_dispatch:
   schedule:
-    - cron: '30 12 1 1 *'
+    - cron: '30 12 * * *'
