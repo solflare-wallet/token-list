@@ -10,6 +10,48 @@
   "tokens": [
     {
       "chainId": 101,
+      "name": "Pink",
+      "symbol": "PINK",
+      "address": "3AMtw8m3pZnrGLmGqQcJnHSQSaegtZGBMpon74EVZVQ3",
+      "decimals": 6,
+      "logoURI": "https://7wkundtglid62zgehee43kmqc2h2jreq6qvf2dmflr6hndap44yq.arweave.net/_ZVGjmZaB-1kxDkJzamQFo-kxJD0Kl0NhVx8dowP5zE/",
+      "tags": [
+        "spl-token-2022"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "RugCheck",
+      "symbol": "RCHK",
+      "address": "4rADWie1EB5k2Dd49oM1SfeNawTRtV2ZTyutFb3B57nG",
+      "decimals": 5,
+      "logoURI": "https://rugcheck.xyz/favicon.png",
+      "tags": [
+        "spl-token-2022"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "Yin&Yang",
+      "symbol": "YIN",
+      "address": "8wfEQNcYinqAM8gLwRwSXq6QwxKQ8JQA8CFA8jF3QYro",
+      "decimals": 6,
+      "logoURI": "https://bafkreib24egh4jrf3tsghctl7lhki7wynizh6zla73qewup3ltarbkfup4.ipfs.nftstorage.link/",
+      "tags": [
+        "spl-token-2022"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "presaletoken",
+      "symbol": "PT",
+      "address": "AyTkn8g6QWdmfTiUmoQYN3Y7BHdR3EBydM1wWmH9C271",
+      "decimals": 6,
+      "logoURI": "https://solflare-static.ams3.cdn.digitaloceanspaces.com/misc/empty-white.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
       "name": "Drama Token",
       "symbol": "DRAMA",
       "address": "3ba26vEuRSLTd6GmDGQsrLWkRp1VRXdHoUeum3k4tSuF",
@@ -27,72 +69,6 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "xhashtag"
-      }
-    },
-    {
-      "chainId": 101,
-      "name": "Sunrise gSOL",
-      "symbol": "GSOL",
-      "address": "gso1xA56hacfgTHTF4F7wN5r4jbnJsKh99vR595uybA",
-      "decimals": 9,
-      "logoURI": "https://arweave.net/46QNhUyat533ptVC2myiNVb5BvSP7PAFzM5ILCZTrGU",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Cloned Arbitrum",
-      "symbol": "clARB",
-      "address": "9cMWa1wuWcio3vgEpiFg7PqKbcoafuUw5sLYFkXJ2J8M",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/16547/standard/photo_2023-03-29_21.47.00.jpeg?1696516109",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Cloned Optimism",
-      "symbol": "clOP",
-      "address": "4cwVHQtwiK7r9aAUsu4cetk1JtLWPymopWcpTSsihCdL",
-      "decimals": 8,
-      "logoURI": "https://assets.coingecko.com/coins/images/25244/standard/Optimism.png",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Edgevana Staked SOL",
-      "symbol": "edgeSOL",
-      "address": "edge86g9cVz87xcpKpy3J77vbp4wYd9idEV562CCntt",
-      "decimals": 9,
-      "logoURI": "https://arweave.net/JqUwm41OHf2jFLDognx7BKD6N9LiUDDRMTI8k2B7fHE",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Juicy Stake Staked SOL",
-      "symbol": "jucySOL",
-      "address": "jucy5XJ76pHVvtPZb5TKRcGQExkwit2P5s4vY8UzmpC",
-      "decimals": 9,
-      "logoURI": "https://shdw-drive.genesysgo.net/5ohvXVJ7f3HxnwYGnXKdECWC3KFcU95dHu7S7x69Y1sA/logo_rev.svg",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "bonkSOL",
-      "symbol": "bonkSOL",
-      "address": "BonK1YhkXEGLZzwtcvRTip3gAL9nCeQD7ppZBLXhtTs",
-      "decimals": 9,
-      "logoURI": "https://arweave.net/ms-FdIyJ8TxEJOb2SAYhfyrLop7TDrCEjD-I-oIl5u4",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Infinity",
-      "symbol": "INF",
-      "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-      "decimals": 9,
-      "logoURI": "https://cloudflare-ipfs.com/ipfs/bafkreiflz2xxkfn33qjch2wj55bvbn33q3s4mmb6bye5pt3mpgy4t2wg4e",
-      "tags": [],
-      "extensions": {
-        "coingeckoId": "socean-staked-sol"
       }
     }
   ]
