@@ -70,6 +70,15 @@
       "extensions": {
         "coingeckoId": "xhashtag"
       }
+    },
+    {
+      "chainId": 101,
+      "name": "Vault Points",
+      "symbol": "VPTS",
+      "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+      "decimals": 6,
+      "logoURI": "https://thevault.finance/images/tokens/vpts.svg",
+      "tags": []
     }
   ]
 }
