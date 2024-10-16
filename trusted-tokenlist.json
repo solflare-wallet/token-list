@@ -79,6 +79,18 @@
       "decimals": 6,
       "logoURI": "https://thevault.finance/images/tokens/vpts.svg",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+      "decimals": 6,
+      "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "debridge"
+      }
     }
   ]
 }
