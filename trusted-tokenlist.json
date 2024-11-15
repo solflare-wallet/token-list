@@ -10,6 +10,15 @@
   "tokens": [
     {
       "chainId": 101,
+      "name": "USDS",
+      "symbol": "USDS",
+      "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+      "decimals": 6,
+      "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
+      "tags": []
+    },
+    {
+      "chainId": 101,
       "name": "Pink",
       "symbol": "PINK",
       "address": "3AMtw8m3pZnrGLmGqQcJnHSQSaegtZGBMpon74EVZVQ3",
