@@ -100,6 +100,15 @@
       "extensions": {
         "coingeckoId": "debridge"
       }
+    },
+    {
+      "chainId": 101,
+      "name": "Save Finance",
+      "symbol": "SAVE",
+      "address": "SAVEaeeqeXNKYb4Lyx28DkUms5gyZ76vGa6fCfdzWfK",
+      "decimals": 6,
+      "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/save/save_logo.svg",
+      "tags": []
     }
   ]
 }
