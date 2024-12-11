@@ -109,6 +109,15 @@
       "decimals": 6,
       "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/save/save_logo.svg",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "mSEND Series 3 (Wormhole)",
+      "symbol": "mSEND",
+      "address": "36GXyyJJoZM6LfdRyAQnzvEkf19iRCnHpXFTGhzeCdDL",
+      "decimals": 6,
+      "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/mSEND.svg",
+      "tags": []
     }
   ]
 }
