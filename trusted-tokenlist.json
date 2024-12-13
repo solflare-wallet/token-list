@@ -118,6 +118,15 @@
       "decimals": 6,
       "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/mSEND.svg",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Streamflow",
+      "symbol": "STREAM",
+      "address": "STREAMribRwybYpMmSYoCsQUdr6MZNXEqHgm7p1gu9M",
+      "decimals": 6,
+      "logoURI": "https://arweave.net/oSDKVyoiP2eE4TNT_MrfJFGjFCkm1tCbkkEaFTJwBNE",
+      "tags": []
     }
   ]
 }
