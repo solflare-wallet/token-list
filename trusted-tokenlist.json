@@ -127,6 +127,19 @@
       "decimals": 6,
       "logoURI": "https://arweave.net/oSDKVyoiP2eE4TNT_MrfJFGjFCkm1tCbkkEaFTJwBNE",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "FungiFi",
+      "symbol": "FUNGI",
+      "address": "8BmWvBwJngQNHrvhaJE8QDameBz2YnVtDMXBGaCjCHsh",
+      "decimals": 9,
+      "logoURI": "https://fungifi.s3.us-east-2.amazonaws.com/Fungi.png",
+      "tags": ["meme-token"],
+      "extensions": {
+        "coingeckoId": "fungifi"
+      }
     }
+   
   ]
 }
