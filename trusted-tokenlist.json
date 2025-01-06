@@ -127,6 +127,18 @@
       "decimals": 6,
       "logoURI": "https://arweave.net/oSDKVyoiP2eE4TNT_MrfJFGjFCkm1tCbkkEaFTJwBNE",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Wen",
+      "symbol": "WEN",
+      "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+      "decimals": 5,
+      "logoURI": "https://i.imgur.com/hO4dL01.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "wen-solana"
+      }
     }
   ]
 }
