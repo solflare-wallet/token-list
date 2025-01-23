@@ -14,6 +14,7 @@
       "symbol": "USDS",
       "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
       "tags": []
     },
@@ -23,6 +24,7 @@
       "symbol": "PINK",
       "address": "3AMtw8m3pZnrGLmGqQcJnHSQSaegtZGBMpon74EVZVQ3",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://7wkundtglid62zgehee43kmqc2h2jreq6qvf2dmflr6hndap44yq.arweave.net/_ZVGjmZaB-1kxDkJzamQFo-kxJD0Kl0NhVx8dowP5zE/",
       "tags": [
         "spl-token-2022"
@@ -34,6 +36,7 @@
       "symbol": "RCHK",
       "address": "4rADWie1EB5k2Dd49oM1SfeNawTRtV2ZTyutFb3B57nG",
       "decimals": 5,
+      "verified": true,
       "logoURI": "https://rugcheck.xyz/favicon.png",
       "tags": [
         "spl-token-2022"
@@ -45,6 +48,7 @@
       "symbol": "YIN",
       "address": "8wfEQNcYinqAM8gLwRwSXq6QwxKQ8JQA8CFA8jF3QYro",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://bafkreib24egh4jrf3tsghctl7lhki7wynizh6zla73qewup3ltarbkfup4.ipfs.nftstorage.link/",
       "tags": [
         "spl-token-2022"
@@ -56,6 +60,7 @@
       "symbol": "PT",
       "address": "AyTkn8g6QWdmfTiUmoQYN3Y7BHdR3EBydM1wWmH9C271",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://solflare-static.ams3.cdn.digitaloceanspaces.com/misc/empty-white.png",
       "tags": []
     },
@@ -65,6 +70,7 @@
       "symbol": "DRAMA",
       "address": "3ba26vEuRSLTd6GmDGQsrLWkRp1VRXdHoUeum3k4tSuF",
       "decimals": 9,
+      "verified": true,
       "logoURI": "https://qdpw5kh2suzanv4jpry3jevawh7hmzqdewjfvg7ofuladhc7poaa.arweave.net/gN9uqPqVMgbXiXxxtJKgsf52ZgMlklqb7i0WAZxfe4A?ext=jpeg",
       "tags": []
     },
@@ -74,6 +80,7 @@
       "symbol": "XTAG",
       "address": "Ga15AHC3396dzHSuBkTUmnjNxBduzpBeVGrMzE5KVxX7",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://assets.coingecko.com/coins/images/20912/large/xtag.png?1637922382",
       "tags": [],
       "extensions": {
@@ -86,6 +93,7 @@
       "symbol": "VPTS",
       "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://thevault.finance/images/tokens/vpts.svg",
       "tags": []
     },
@@ -95,6 +103,7 @@
       "symbol": "DBR",
       "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
       "tags": [],
       "extensions": {
@@ -107,6 +116,7 @@
       "symbol": "SAVE",
       "address": "SAVEaeeqeXNKYb4Lyx28DkUms5gyZ76vGa6fCfdzWfK",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/save/save_logo.svg",
       "tags": []
     },
@@ -116,6 +126,7 @@
       "symbol": "mSEND",
       "address": "36GXyyJJoZM6LfdRyAQnzvEkf19iRCnHpXFTGhzeCdDL",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/mSEND.svg",
       "tags": []
     },
@@ -125,6 +136,7 @@
       "symbol": "STREAM",
       "address": "STREAMribRwybYpMmSYoCsQUdr6MZNXEqHgm7p1gu9M",
       "decimals": 6,
+      "verified": true,
       "logoURI": "https://arweave.net/oSDKVyoiP2eE4TNT_MrfJFGjFCkm1tCbkkEaFTJwBNE",
       "tags": []
     },
@@ -139,6 +151,19 @@
       "tags": [],
       "extensions": {
         "coingeckoId": "wen-solana"
+      }
+    },
+    {
+      "chainId": 101,
+      "name": "deBridge",
+      "symbol": "deBridge",
+      "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "debridge"
       }
     }
   ]
