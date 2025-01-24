@@ -33,6 +33,14 @@
       ],
       "verified": true,
       "holders": 42719
+    },
+    {
+      "chainId": 101,
+      "name": "Wrapped Solana",
+      "symbol": "WSOL",
+      "address": "4L8p93A8jCrf2a4qn8Eqr1HnAiYYFyvCiLTeNLjq5ALZ",
+      "decimals": 8,      
+      "extensions": []
     }
   ]
 }
