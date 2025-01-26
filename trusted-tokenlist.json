@@ -165,6 +165,16 @@
       "extensions": {
         "coingeckoId": "debridge"
       }
+    }, 
+    {
+      "chainId": 101,
+      "name": "Mega Toy Machine Free Spin",
+      "symbol": "SPIN",
+      "address": "2rPXaUkuHJ9LEmWo82kFZxkYrWacnSyjf6tE941wGYx6",
+      "decimals": 0,
+      "verified": true,
+      "logoURI": "https://arweave.net/HoWZXGcdtimimWPBb4sKWyp_6MOm7iedBAJdsu7BQSM",
+      "tags": []
     }
   ]
 }
