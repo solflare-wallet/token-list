@@ -4,7 +4,7 @@
   "symbol": "CAI",
   "name": "CAICoin",
   "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/caicoinimage/token-list/main/assets/mainnet/GnLRNPeKca4FX6rAAc8JQeY6Wx5AqGbA3QP9ZqiTsBvS/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/caicoin/caicoinimage/main/assets/mainnet/GnLRNPeKca4FX6rAAc8JQeY6Wx5AqGbA3QP9ZqiTsBvS/logo.png",
   "tags": ["utility-token"],
   "extensions": {
     "twitter": "https://x.com/caicoin2020",
