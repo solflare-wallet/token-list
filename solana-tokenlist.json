@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:fd309981c8eb1ca07d711e342bbb9718296ec1bf4fd57da3a6e7e6ad12b35279
-size 173846871
+{
+  "chainId": 101,
+  "address": "GnLRNPeKca4FX6rAAc8JQeY6Wx5AqGbA3QP9ZqiTsBvS",
+  "symbol": "CAI",
+  "name": "CAICoin",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/caicoin/token-list/main/assets/mainnet/GnLRNPeKca4FX6rAAc8JQeY6Wx5AqGbA3QP9ZqiTsBvS/logo.png",
+  "tags": ["utility-token"],
+  "extensions": {
+    "twitter": "https://x.com/caicoin2020",
+    "description": "CAICoin is a utility token designed to bridge real-world value with Web3 services, symbolizing both heritage and innovation.财币是一种实用代币，旨在将现实世界的价值与 Web3 服务联系起来，象征着传承与创新。"
+  }
+}
