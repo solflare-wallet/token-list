@@ -175,6 +175,46 @@
       "verified": true,
       "logoURI": "https://arweave.net/HoWZXGcdtimimWPBb4sKWyp_6MOm7iedBAJdsu7BQSM",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Etherfuse CETES",
+      "symbol": "CETES",
+      "address": "CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-cetes.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Etherfuse EUROB",
+      "symbol": "EUROB",
+      "address": "EuroszHk1AL7fHBBsxgeGHsamUqwBpb26oEyt9BcfZ6G",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-eurob.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Etherfuse TESOURO",
+      "symbol": "TESOURO",
+      "address": "BRNTNaZeTJANz9PeuD8drNbBHwGgg7ZTjiQYrFgWQ48p",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-tesouro.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Etherfuse USTRY",
+      "symbol": "USTRY",
+      "address": "USTRYnGgcHAhdWsanv8BG6vHGd4p7UGgoB9NRd8ei7j",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-ustry.png",
+      "tags": []
     }
   ]
 }
