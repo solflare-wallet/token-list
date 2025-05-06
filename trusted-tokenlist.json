@@ -215,6 +215,16 @@
       "verified": true,
       "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-ustry.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "BrutalSol",
+      "symbol": "BRUTE",
+      "address": "7C5SPivzYtk2umHScjLXN7WZnstLFf1r5TCsMNaTpump",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://ipfs.io/ipfs/QmTyadbPgvzAeECXtkuVnFY8UXoynjkrGc2M2ebfn53Gq5",
+      "tags": []
     }
   ]
 }
