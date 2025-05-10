@@ -227,6 +227,7 @@
       "tags": []
     },
     {
+  "chainId": 101,
   "name": "Fela Forever",
   "symbol": "Fela",
   "mint": "5gK7du17XyHMuLHUfKFiLnaHQQJ1geg2LprYd6dBpump",
@@ -238,6 +239,7 @@
     "website": "https://felaforever.com/",
     "twitter": "https://x.com/FelaForever",
     "createdOn": "https://pump.fun"
+    "tags": [meme]
       }
     }
   ]
