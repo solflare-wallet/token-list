@@ -225,6 +225,17 @@
       "verified": true,
       "logoURI": "https://ipfs.io/ipfs/QmTyadbPgvzAeECXtkuVnFY8UXoynjkrGc2M2ebfn53Gq5",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Prof Etilop Murt",
+      "symbol": "PMURT",
+      "address": "DdjLTNm1n6jR4aYikVEp6ZSzzy3MoSQXAbrUyNT28PEN",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://raw.githubusercontent.com/ProfEtilopMurt/jup-token-list/main/assets/mainnet/DdjLTNm1n6jR4aYikVEp6ZSzzy3MoSQXAbrUyNT28PEN/logo.png",
+      "tags": ["community", "pmurt"]
     }
+
   ]
 }
