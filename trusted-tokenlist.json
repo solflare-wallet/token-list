@@ -225,6 +225,16 @@
       "verified": true,
       "logoURI": "https://ipfs.io/ipfs/QmTyadbPgvzAeECXtkuVnFY8UXoynjkrGc2M2ebfn53Gq5",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Masha",
+      "symbol": "MASHA",
+      "address": "mae8vJGf8Wju8Ron1oDTQVaTGGBpcpWDwoRQJALMMf2",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://general-inventory.coin98.tech/file/ins/masha.png",
+      "tags": []
     }
   ]
 }
