@@ -235,6 +235,16 @@
       "verified": true,
       "logoURI": "https://raw.githubusercontent.com/ProfEtilopMurt/jup-token-list/main/assets/mainnet/DdjLTNm1n6jR4aYikVEp6ZSzzy3MoSQXAbrUyNT28PEN/logo.png",
       "tags": ["community", "pmurt"]
+    },
+    {
+      "chainId": 101
+      "name": "Masha",
+      "symbol": "MASHA",
+      "address": "mae8vJGf8Wju8Ron1oDTQVaTGGBpcpWDwoRQJALMMf2",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://general-inventory.coin98.tech/file/ins/masha.png",
+      "tags": []
     }
 
   ]
