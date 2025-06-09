@@ -230,14 +230,14 @@
       "chainId": 101,
       "name": "Prof Etilop Murt",
       "symbol": "PMURT",
-      "address": "DdjLTNm1n6jR4aYikVEp6ZSzzy3MoSQXAbrUyNT28PEN",
+      "address": "6JEahjspib3VWCT8TFbv6pim4P8CYFHGfJZRFsahWCRn",
       "decimals": 9,
       "verified": true,
-      "logoURI": "https://raw.githubusercontent.com/ProfEtilopMurt/jup-token-list/main/assets/mainnet/DdjLTNm1n6jR4aYikVEp6ZSzzy3MoSQXAbrUyNT28PEN/logo.png",
+      "logoURI": "https://raw.githubusercontent.com/ProfEtilopMurt/token-list/add-pmurt/assets/mainnet/6JEahjspib3VWCT8TFbv6pim4P8CYFHGfJZRFsahWCRn/logo.png",
       "tags": ["community", "pmurt"]
     },
     {
-      "chainId": 101
+      "chainId": 101,
       "name": "Masha",
       "symbol": "MASHA",
       "address": "mae8vJGf8Wju8Ron1oDTQVaTGGBpcpWDwoRQJALMMf2",
