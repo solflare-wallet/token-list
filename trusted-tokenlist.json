@@ -235,6 +235,36 @@
       "verified": true,
       "logoURI": "https://general-inventory.coin98.tech/file/ins/masha.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Solstice Coin",
+      "symbol": "COIN",
+      "address": "EoS3ihjT54kyBXbsnmAgjAukgUZWLjBw7ALMxqd7N7DZ",
+      "decimals": 0,
+      "verified": true,
+      "logoURI": "https://gateway.irys.xyz/SH7Aa9T3NGAQylvmdABYgpvrZwEdqZJZ9_pOsGNyOFA",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "CHRISTMAS COIN",
+      "symbol": "COIN",
+      "address": "A782Eo2wQf758SMrKdupY6vhQ9LfVwsNSXo1iLhfVbnM",
+      "decimals": 0,
+      "verified": true,
+      "logoURI": "https://arweave.net/Bk4XKfggRJJ2yKe5DgjrzXwSlnd1GkOWzKr3Fzkz_fY",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "SPIN",
+      "symbol": "SPIN",
+      "address": "2rPXaUkuHJ9LEmWo82kFZxkYrWacnSyjf6tE941wGYx6",
+      "decimals": 0,
+      "verified": true,
+      "logoURI": "https://arweave.net/s3UdOMXrv_wmheF4BQregKdJhQZcfJGAYv4jq8v8Mv4",
+      "tags": []
     }
   ]
 }
