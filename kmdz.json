@@ -1,0 +1,15 @@
+{
+  "name": "KomodoVerse",
+  "symbol": "KMDZ",
+  "decimals": 9,
+  "description": "KomodoVerse ($KMDZ) is a meme token with a mission of education, conservation, and Komodo pride — the last living trace of the dinosaur age from the tropical islands.",
+  "image": "https://raw.githubusercontent.com/komodoverze/solana-token-assets/main/assets/mainnet/6xpVqCTts2afhqfXB55jbp8dW66aAyG6FPNdFMzQmPQU/logo.png",
+  "extensions": {
+    "website": "https://x.com/komodoverze",
+    "twitter": "https://x.com/komodoverze",
+    "coingeckoId": "",
+    "serumV3Usdc": "",
+    "source": "community",
+    "github": "https://github.com/komodoverze"
+  }
+}
