@@ -265,6 +265,22 @@
       "verified": true,
       "logoURI": "https://arweave.net/s3UdOMXrv_wmheF4BQregKdJhQZcfJGAYv4jq8v8Mv4",
       "tags": []
+          },
+     {
+       "chainId": 101,
+  "name": "Fela Forever",
+  "symbol": "Fela",
+  "mint": "5gK7du17XyHMuLHUfKFiLnaHQQJ1geg2LprYd6dBpump",
+  "address": "5gK7du17XyHMuLHUfKFiLnaHQQJ1geg2LprYd6dBpump",
+  "decimals": 6,
+  "description": "A MEME COIN TRIBUTE TO THE LEGEND OF AFROBEATS FELA KUTI ,Fela Kuti was more than a musician—he was a revolutionary, a visionary, and a fearless voice for the oppressed.",
+  "verified": true,
+  "logoURI": "https://ipfs.io/ipfs/QmRrTtmkbyhVpgnqKw8PVsv2bpPb2vKSWfGqGWqCtyuQWx",
+  "showName": true,
+  "extensions": {
+    "website": "https://felaforever.com/",
+    "twitter": "https://x.com/FelaForever",
+    "createdOn": "https://pump.fun"
     }
   ]
 }
