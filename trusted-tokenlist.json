@@ -266,5 +266,12 @@
       "logoURI": "https://arweave.net/s3UdOMXrv_wmheF4BQregKdJhQZcfJGAYv4jq8v8Mv4",
       "tags": []
     }
-  ]
-}
+  "chainId": 101,
+      "name": "ToiletCoin",
+      "symbol": "TOILET",
+      "address": "6rLf7pR2Rscr1hviDKJCSZ2Trm4yBKPmbZni9GrZRRaf",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://arweave.net/JVCL907FpL5jXcfSkM0ON-VheUQDoqrEYZ-i02FHePw",
+      "tags": ["meme", "community", "real-world", "flushverse"]
+},
