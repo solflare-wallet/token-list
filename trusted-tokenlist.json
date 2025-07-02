@@ -265,6 +265,15 @@
       "verified": true,
       "logoURI": "https://arweave.net/s3UdOMXrv_wmheF4BQregKdJhQZcfJGAYv4jq8v8Mv4",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Cemetery of Memes",
+      "symbol": "CEME",
+      "address": "DXUn1osxxZmYFNwmJsDCiTk2YndVAwhQ58rGAKwTmoon",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://raw.githubusercontent.com/GitBoffin/token-list/main/assets/mainnet/DXUn1osxxZmYFNwmJsDCiTk2YndVAwhQ58rGAKwTmoon/logo.png",
+      "tags": []
     }
   ]
-}
