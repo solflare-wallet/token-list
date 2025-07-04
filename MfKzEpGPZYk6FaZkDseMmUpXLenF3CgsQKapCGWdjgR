@@ -1,0 +1,14 @@
+{
+  "name": "SolEdu",
+  "symbol": "SOLEDU",
+  "decimals": 9,
+  "mint": "YOUR_MINT_ADDRESS",
+  "logoURI": "https://gateway.irys.xyz/AAezOlQkRBunGvLlsOcVIg9YesLBlGShsVCuUuKUsfM",
+  "tags": ["education", "learn-to-earn"],
+  "extensions": {
+    "website": "https://soledu.space/",
+    "twitter": "https://x.com/soledu_official",
+    "telegram": "https://x.com/soledu_official",
+    "discord": "https://discord.gg/9bkjharh"
+  }
+}
