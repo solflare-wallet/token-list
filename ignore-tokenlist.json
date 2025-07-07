@@ -41,6 +41,14 @@
       "address": "4L8p93A8jCrf2a4qn8Eqr1HnAiYYFyvCiLTeNLjq5ALZ",
       "decimals": 8,      
       "extensions": []
+    },
+    {
+      "chainId": 101,
+      "name": "NVIDIA",
+      "symbol": "NVDA",
+      "address": "9dwPiStDBwJJqC3QzMnjpJP7xohZbMVmHELFx3uy3KRq",
+      "decimals": 9,      
+      "extensions": []
     }
   ]
 }
