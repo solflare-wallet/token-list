@@ -10,214 +10,6 @@
   "tokens": [
     {
       "chainId": 101,
-      "name": "USDS",
-      "symbol": "USDS",
-      "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Pink",
-      "symbol": "PINK",
-      "address": "3AMtw8m3pZnrGLmGqQcJnHSQSaegtZGBMpon74EVZVQ3",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://7wkundtglid62zgehee43kmqc2h2jreq6qvf2dmflr6hndap44yq.arweave.net/_ZVGjmZaB-1kxDkJzamQFo-kxJD0Kl0NhVx8dowP5zE/",
-      "tags": [
-        "spl-token-2022"
-      ]
-    },
-    {
-      "chainId": 101,
-      "name": "RugCheck",
-      "symbol": "RCHK",
-      "address": "4rADWie1EB5k2Dd49oM1SfeNawTRtV2ZTyutFb3B57nG",
-      "decimals": 5,
-      "verified": true,
-      "logoURI": "https://rugcheck.xyz/favicon.png",
-      "tags": [
-        "spl-token-2022"
-      ]
-    },
-    {
-      "chainId": 101,
-      "name": "Yin&Yang",
-      "symbol": "YIN",
-      "address": "8wfEQNcYinqAM8gLwRwSXq6QwxKQ8JQA8CFA8jF3QYro",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://bafkreib24egh4jrf3tsghctl7lhki7wynizh6zla73qewup3ltarbkfup4.ipfs.nftstorage.link/",
-      "tags": [
-        "spl-token-2022"
-      ]
-    },
-    {
-      "chainId": 101,
-      "name": "presaletoken",
-      "symbol": "PT",
-      "address": "AyTkn8g6QWdmfTiUmoQYN3Y7BHdR3EBydM1wWmH9C271",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://solflare-static.ams3.cdn.digitaloceanspaces.com/misc/empty-white.png",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Drama Token",
-      "symbol": "DRAMA",
-      "address": "3ba26vEuRSLTd6GmDGQsrLWkRp1VRXdHoUeum3k4tSuF",
-      "decimals": 9,
-      "verified": true,
-      "logoURI": "https://qdpw5kh2suzanv4jpry3jevawh7hmzqdewjfvg7ofuladhc7poaa.arweave.net/gN9uqPqVMgbXiXxxtJKgsf52ZgMlklqb7i0WAZxfe4A?ext=jpeg",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "XTAG Token (Wormhole)",
-      "symbol": "XTAG",
-      "address": "Ga15AHC3396dzHSuBkTUmnjNxBduzpBeVGrMzE5KVxX7",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://assets.coingecko.com/coins/images/20912/large/xtag.png?1637922382",
-      "tags": [],
-      "extensions": {
-        "coingeckoId": "xhashtag"
-      }
-    },
-    {
-      "chainId": 101,
-      "name": "Vault Points",
-      "symbol": "VPTS",
-      "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://thevault.finance/images/tokens/vpts.svg",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "deBridge",
-      "symbol": "DBR",
-      "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
-      "tags": [],
-      "extensions": {
-        "coingeckoId": "debridge"
-      }
-    },
-    {
-      "chainId": 101,
-      "name": "Save Finance",
-      "symbol": "SAVE",
-      "address": "SAVEaeeqeXNKYb4Lyx28DkUms5gyZ76vGa6fCfdzWfK",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/save/save_logo.svg",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "mSEND Series 3 (Wormhole)",
-      "symbol": "mSEND",
-      "address": "36GXyyJJoZM6LfdRyAQnzvEkf19iRCnHpXFTGhzeCdDL",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/mSEND.svg",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Streamflow",
-      "symbol": "STREAM",
-      "address": "STREAMribRwybYpMmSYoCsQUdr6MZNXEqHgm7p1gu9M",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://arweave.net/oSDKVyoiP2eE4TNT_MrfJFGjFCkm1tCbkkEaFTJwBNE",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Wen",
-      "symbol": "WEN",
-      "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
-      "decimals": 5,
-      "verified": true,
-      "logoURI": "https://i.imgur.com/hO4dL01.png",
-      "tags": [],
-      "extensions": {
-        "coingeckoId": "wen-solana"
-      }
-    },
-    {
-      "chainId": 101,
-      "name": "deBridge",
-      "symbol": "deBridge",
-      "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
-      "tags": [],
-      "extensions": {
-        "coingeckoId": "debridge"
-      }
-    }, 
-    {
-      "chainId": 101,
-      "name": "Mega Toy Machine Free Spin",
-      "symbol": "SPIN",
-      "address": "2rPXaUkuHJ9LEmWo82kFZxkYrWacnSyjf6tE941wGYx6",
-      "decimals": 0,
-      "verified": true,
-      "logoURI": "https://arweave.net/HoWZXGcdtimimWPBb4sKWyp_6MOm7iedBAJdsu7BQSM",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Etherfuse CETES",
-      "symbol": "CETES",
-      "address": "CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-cetes.png",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Etherfuse EUROB",
-      "symbol": "EUROB",
-      "address": "EuroszHk1AL7fHBBsxgeGHsamUqwBpb26oEyt9BcfZ6G",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-eurob.png",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Etherfuse TESOURO",
-      "symbol": "TESOURO",
-      "address": "BRNTNaZeTJANz9PeuD8drNbBHwGgg7ZTjiQYrFgWQ48p",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-tesouro.png",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "Etherfuse USTRY",
-      "symbol": "USTRY",
-      "address": "USTRYnGgcHAhdWsanv8BG6vHGd4p7UGgoB9NRd8ei7j",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-ustry.png",
-      "tags": []
-    },
-    {
-      "chainId": 101,
       "name": "BrutalSol",
       "symbol": "BRUTE",
       "address": "7C5SPivzYtk2umHScjLXN7WZnstLFf1r5TCsMNaTpump",
@@ -228,12 +20,12 @@
     },
     {
       "chainId": 101,
-      "name": "Masha",
-      "symbol": "MASHA",
-      "address": "mae8vJGf8Wju8Ron1oDTQVaTGGBpcpWDwoRQJALMMf2",
+      "name": "Etherfuse CETES",
+      "symbol": "CETES",
+      "address": "CETES7CKqqKQizuSN6iWQwmTeFRjbJR6Vw2XRKfEDR8f",
       "decimals": 6,
       "verified": true,
-      "logoURI": "https://general-inventory.coin98.tech/file/ins/masha.png",
+      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-cetes.png",
       "tags": []
     },
     {
@@ -258,12 +50,233 @@
     },
     {
       "chainId": 101,
+      "name": "deBridge",
+      "symbol": "DBR",
+      "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "debridge"
+      }
+    },
+    {
+      "chainId": 101,
+      "name": "Drama Token",
+      "symbol": "DRAMA",
+      "address": "3ba26vEuRSLTd6GmDGQsrLWkRp1VRXdHoUeum3k4tSuF",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://qdpw5kh2suzanv4jpry3jevawh7hmzqdewjfvg7ofuladhc7poaa.arweave.net/gN9uqPqVMgbXiXxxtJKgsf52ZgMlklqb7i0WAZxfe4A?ext=jpeg",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Etherfuse EUROB",
+      "symbol": "EUROB",
+      "address": "EuroszHk1AL7fHBBsxgeGHsamUqwBpb26oEyt9BcfZ6G",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-eurob.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "address": "H7N8GMFegfmFvV2Vrqkm7DpAoK1CBj6KdvwBkSdQpump",
+      "symbol": "FOMO",
+      "name": "FomoFrog",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/davidligotti/fomofrog/main/fomofrog_logo_512.png",
+      "tags": [
+        "meme",
+        "community",
+        "solana"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "Masha",
+      "symbol": "MASHA",
+      "address": "mae8vJGf8Wju8Ron1oDTQVaTGGBpcpWDwoRQJALMMf2",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://general-inventory.coin98.tech/file/ins/masha.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Pink",
+      "symbol": "PINK",
+      "address": "3AMtw8m3pZnrGLmGqQcJnHSQSaegtZGBMpon74EVZVQ3",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://7wkundtglid62zgehee43kmqc2h2jreq6qvf2dmflr6hndap44yq.arweave.net/_ZVGjmZaB-1kxDkJzamQFo-kxJD0Kl0NhVx8dowP5zE/",
+      "tags": [
+        "spl-token-2022"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "presaletoken",
+      "symbol": "PT",
+      "address": "AyTkn8g6QWdmfTiUmoQYN3Y7BHdR3EBydM1wWmH9C271",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://solflare-static.ams3.cdn.digitaloceanspaces.com/misc/empty-white.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "RugCheck",
+      "symbol": "RCHK",
+      "address": "4rADWie1EB5k2Dd49oM1SfeNawTRtV2ZTyutFb3B57nG",
+      "decimals": 5,
+      "verified": true,
+      "logoURI": "https://rugcheck.xyz/favicon.png",
+      "tags": [
+        "spl-token-2022"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "Save Finance",
+      "symbol": "SAVE",
+      "address": "SAVEaeeqeXNKYb4Lyx28DkUms5gyZ76vGa6fCfdzWfK",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/save/save_logo.svg",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Mega Toy Machine Free Spin",
+      "symbol": "SPIN",
+      "address": "2rPXaUkuHJ9LEmWo82kFZxkYrWacnSyjf6tE941wGYx6",
+      "decimals": 0,
+      "verified": true,
+      "logoURI": "https://arweave.net/HoWZXGcdtimimWPBb4sKWyp_6MOm7iedBAJdsu7BQSM",
+      "tags": []
+    },
+    {
+      "chainId": 101,
       "name": "SPIN",
       "symbol": "SPIN",
       "address": "2rPXaUkuHJ9LEmWo82kFZxkYrWacnSyjf6tE941wGYx6",
       "decimals": 0,
       "verified": true,
       "logoURI": "https://arweave.net/s3UdOMXrv_wmheF4BQregKdJhQZcfJGAYv4jq8v8Mv4",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Streamflow",
+      "symbol": "STREAM",
+      "address": "STREAMribRwybYpMmSYoCsQUdr6MZNXEqHgm7p1gu9M",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://arweave.net/oSDKVyoiP2eE4TNT_MrfJFGjFCkm1tCbkkEaFTJwBNE",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Etherfuse TESOURO",
+      "symbol": "TESOURO",
+      "address": "BRNTNaZeTJANz9PeuD8drNbBHwGgg7ZTjiQYrFgWQ48p",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-tesouro.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "USDS",
+      "symbol": "USDS",
+      "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://ipfs.io/ipfs/QmTW9HWfb2wsQqEVJiixkQ73Nsfp2Rx4ESaDSiQ7ThwnFM",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Etherfuse USTRY",
+      "symbol": "USTRY",
+      "address": "USTRYnGgcHAhdWsanv8BG6vHGd4p7UGgoB9NRd8ei7j",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://stablebonds.s3.us-west-2.amazonaws.com/stablebond/spl-ustry.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Vault Points",
+      "symbol": "VPTS",
+      "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://thevault.finance/images/tokens/vpts.svg",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Wen",
+      "symbol": "WEN",
+      "address": "WENWENvqqNya429ubCdR81ZmD69brwQaaBYY6p3LCpk",
+      "decimals": 5,
+      "verified": true,
+      "logoURI": "https://i.imgur.com/hO4dL01.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "wen-solana"
+      }
+    },
+    {
+      "chainId": 101,
+      "name": "XTAG Token (Wormhole)",
+      "symbol": "XTAG",
+      "address": "Ga15AHC3396dzHSuBkTUmnjNxBduzpBeVGrMzE5KVxX7",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://assets.coingecko.com/coins/images/20912/large/xtag.png?1637922382",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "xhashtag"
+      }
+    },
+    {
+      "chainId": 101,
+      "name": "Yin&Yang",
+      "symbol": "YIN",
+      "address": "8wfEQNcYinqAM8gLwRwSXq6QwxKQ8JQA8CFA8jF3QYro",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://bafkreib24egh4jrf3tsghctl7lhki7wynizh6zla73qewup3ltarbkfup4.ipfs.nftstorage.link/",
+      "tags": [
+        "spl-token-2022"
+      ]
+    },
+    {
+      "chainId": 101,
+      "name": "deBridge",
+      "symbol": "deBridge",
+      "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "debridge"
+      }
+    },
+    {
+      "chainId": 101,
+      "name": "mSEND Series 3 (Wormhole)",
+      "symbol": "mSEND",
+      "address": "36GXyyJJoZM6LfdRyAQnzvEkf19iRCnHpXFTGhzeCdDL",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://suilend-assets.s3.us-east-2.amazonaws.com/SEND/mSEND.svg",
       "tags": []
     }
   ]
