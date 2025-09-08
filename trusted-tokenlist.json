@@ -265,6 +265,26 @@
       "verified": true,
       "logoURI": "https://arweave.net/s3UdOMXrv_wmheF4BQregKdJhQZcfJGAYv4jq8v8Mv4",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Bertram The Pomeranian",
+      "symbol": "Bert",
+      "address": "HgBRWfYxEfvPhtqkaeymCQtHCrKE46qQ43pKe8HCpump",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmdytWUr8QjATwoxaQETcoxeC5RZpXhhRFDrmYZxXBbNBg",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Collector Crypt",
+      "symbol": "CARDS",
+      "address": "CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://gateway.irys.xyz/2wrjAk4pYAACF3siDHAxt7yJY7kHgt57TZAkbgecKHMR",
+      "tags": []
     }
   ]
 }
