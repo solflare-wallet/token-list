@@ -285,6 +285,16 @@
       "verified": true,
       "logoURI": "https://gateway.irys.xyz/2wrjAk4pYAACF3siDHAxt7yJY7kHgt57TZAkbgecKHMR",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Gate Wrapped SOL",
+      "symbol": "GTSOL",
+      "address": "gateMurAxe4YFoUR6J63gXGKtkbTfdkMdLjZrCmThFP",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://arweave.net/3h5EhmHcesVLbtqkAkGP3DzxNaW8Zde7RyKEvI4Atm0",
+      "tags": []
     }
   ]
 }
