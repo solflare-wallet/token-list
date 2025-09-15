@@ -305,6 +305,15 @@
       "verified": true,
       "logoURI": "https://arweave.net/rn2JGVw61GimeOX64KHOsURjvsXi-qUlrYMc0E9v_pE",
       "tags": []
+    }, {
+      "chainId": 101,
+      "name": "Portals",
+      "symbol": "PORTALS",
+      "address": "PRTLSwfLzpVGSAQiUfXEenJkq1cwTsEcsn1hPL9zwwg",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://gateway.irys.xyz/CGPj5pQGCPBr291pmpiQdxeYZJKH48po7VKNG9hKttn9",
+      "tags": []
     }
   ]
 }
