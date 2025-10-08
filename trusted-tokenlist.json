@@ -325,6 +325,16 @@
       "verified": true,
       "logoURI": "https://gateway.irys.xyz/FsDo2WFaweYVwZUD73ZPuBrtDfa6dw4yLhWEBhtc3AuV",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "AllDomains Name Service",
+      "symbol": "ADNS",
+      "address": "ADNScivK6Pt2XsfsufuyUiZaKbRww5JANDvZ7texDid1",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://gateway.irys.xyz/3eixBiC9SUk5H5JECfAZxXAZiELdZaXgBpiVgzrWHh3R",
+      "tags": []
     }
   ]
 }
