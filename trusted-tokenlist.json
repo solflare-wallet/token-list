@@ -335,6 +335,16 @@
       "verified": true,
       "logoURI": "https://gateway.irys.xyz/3eixBiC9SUk5H5JECfAZxXAZiELdZaXgBpiVgzrWHh3R",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Zcash",
+      "symbol": "ZEC",
+      "address": "A7bdiYdS5GjqGFtxf17ppRHtDKPkkRqbKtR27dxvQXaS",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://arweave.net/QSYqnmB7NYlB7n1R6rz935Y07dlRK0tIuKe2mof5Sho",
+      "tags": []
     }
   ]
 }
