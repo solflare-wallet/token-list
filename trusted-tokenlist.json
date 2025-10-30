@@ -355,6 +355,16 @@
       "verified": true,
       "logoURI": "https://gateway.irys.xyz/ESkTaWguEhpZ8xim5HLhrHPZdp4ZHwn7EfAZcAFbAcja",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Zenrock ZEC",
+      "symbol": "zenZEC",
+      "address": "JDt9rRGaieF6aN1cJkXFeUmsy7ZE4yY3CZb8tVMXVroS",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://www.zenrocklabs.io/zenzec-metadata.json",
+      "tags": []
     }
   ]
 }
