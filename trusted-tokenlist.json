@@ -345,6 +345,16 @@
       "verified": true,
       "logoURI": "https://arweave.net/QSYqnmB7NYlB7n1R6rz935Y07dlRK0tIuKe2mof5Sho",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "dm.fun",
+      "symbol": "fun",
+      "address": "dmfunVbjA71VZu2L1h74Exji6Avs9tsL63uneCDLocX",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://gateway.irys.xyz/ESkTaWguEhpZ8xim5HLhrHPZdp4ZHwn7EfAZcAFbAcja",
+      "tags": []
     }
   ]
 }
