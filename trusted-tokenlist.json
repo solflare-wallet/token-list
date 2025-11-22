@@ -386,5 +386,49 @@
       "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/I_t8rg_V_400x400.jpg/public",
       "tags": []
     }
+    [
+  {
+    "chainId": 101,
+    "address": "99GWiGt1Xr3rtY9y5Zu4P4P32QfCTLgz8Bc8Ssi9GdRa",
+    "symbol": "SOL",
+    "name": "Solana",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/braismx/token-list/main/assets/mainnet/99GWiGt1Xr3rtY9y5Zu4P4P32QfCTLgz8Bc8Ssi9GdRa/logo.png",
+    "tags": ["sol"],
+    "verified": true,
+    "extensions": {
+      "website": "https://solana.com",
+      "metadata": "https://arweave.net/oQcXMbXKkVAgMUOyoYS5H8QgPmi57D6x_34ignQK43M"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "Gm7hNwSxF70SAk6tr8CqGu1dBFRyaehnhbp8aCwwyxWk",
+    "symbol": "USDC",
+    "name": "USD Coin",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/braismx/token-list/main/assets/mainnet/Gm7hNwSxF70SAk6tr8CqGu1dBFRyaehnhbp8aCwwyxWk/logo.png",
+    "tags": ["usdc", "stablecoin"],
+    "verified": true,
+    "extensions": {
+      "website": "https://www.circle.com/usdc",
+      "metadata": "https://arweave.net/8embZmQOym00KGn-OG0fwalyrxyYk2JH30rw_3uGWK0"
+    }
+  },
+  {
+    "chainId": 101,
+    "address": "C3b7FHkZYdkxiNTZ3k7Vf7fZbvB2a94Er8Cir1Jm6bgZ",
+    "symbol": "TRUMP",
+    "name": "OFFICIAL TRUMP",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/braismx/token-list/main/assets/mainnet/C3b7FHkZYdkxiNTZ3k7Vf7fZbvB2a94Er8Cir1Jm6bgZ/logo.png",
+    "tags": ["trump"],
+    "verified": true,
+    "extensions": {
+      "website": "https://trump.example",
+      "metadata": "https://arweave.net/W9FdCaj606nolBdSX7lB0xatETRi26QV3Eum5_okPsU"
+    }
+  }
+]
   ]
 }
