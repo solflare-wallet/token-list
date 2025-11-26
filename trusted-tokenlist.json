@@ -385,6 +385,16 @@
       "verified": true,
       "logoURI": "https://imagedelivery.net/cBNDGgkrsEA-b_ixIp9SkQ/I_t8rg_V_400x400.jpg/public",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Geodnet Token",
+      "symbol": "GEOD",
+      "address": "7JA5eZdCzztSfQbJvS8aVVxMFfd81Rs9VvwnocV1mKHu",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://www.geodnet.com/metadataimg/GEODNET.png",
+      "tags": []
     }
   ]
 }
