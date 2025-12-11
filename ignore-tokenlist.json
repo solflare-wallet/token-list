@@ -49,6 +49,14 @@
       "address": "9dwPiStDBwJJqC3QzMnjpJP7xohZbMVmHELFx3uy3KRq",
       "decimals": 9,      
       "extensions": []
+    },
+    {
+      "chainId": 101,
+      "name": "Solflare",
+      "symbol": "Shield",
+      "address": "AG2BkuLGm1DMgoU6FzRzTDA8HjptTR5b7VUu89xxEFxe",
+      "decimals": 6,      
+      "extensions": []
     }
   ]
 }
