@@ -395,6 +395,16 @@
       "verified": true,
       "logoURI": "https://www.geodnet.com/metadataimg/GEODNET.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "ai16z",
+      "symbol": "ai16z",
+      "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://ipfs.io/ipfs/QmcNTVAoyJ7zDbPnN9jwiMoB8uCoJBUP9RGmmiGGHv44yX",
+      "tags": []
     }
   ]
 }
