@@ -405,6 +405,16 @@
       "verified": true,
       "logoURI": "https://ipfs.io/ipfs/QmcNTVAoyJ7zDbPnN9jwiMoB8uCoJBUP9RGmmiGGHv44yX",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Famous Fox Federation",
+      "symbol": "FOXY",
+      "address": "FoXyMu5xwXre7zEoSvzViRk3nGawHUp9kUh97y2NDhcq",
+      "decimals": 0,
+      "verified": true,
+      "logoURI": "https://dens.famousfoxes.com/foxy.png",
+      "tags": []
     }
   ]
 }
