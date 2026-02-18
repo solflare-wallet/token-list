@@ -425,6 +425,36 @@
       "verified": true,
       "logoURI": "https://node1.irys.xyz/uP1dFvCofZQT26m3SKOCttXrir3ORBR1B8wPhP6tv7M",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Carrot Turbo BTC",
+      "symbol": "TURBOBTC",
+      "address":"BXEjfmuDGSJxvUGqw1tdSnvpQYuMUGVgxYZLjUWPUcB9",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://res.cloudinary.com/dnu9h68sh/image/upload/v1763151185/turboBTC_aulru1.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Carrot Turbo GOLD",
+      "symbol": "TURBOGOLD",
+      "address":"tJDogHacnKNfFeUMFYqQLn44SqY6YV9MVkm5zxWd9mf",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://res.cloudinary.com/dnu9h68sh/image/upload/v1768481714/turbogold_me8mv0.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Carrot Turbo SOL",
+      "symbol": "TURBOSOL",
+      "address":"uWmCyJDELc3PyG5JQpRbA4UVa3ra2jRsk8wkdSTEz6W",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://res.cloudinary.com/dnu9h68sh/image/upload/v1763218697/turbosol_1_bog2ir.png",
+      "tags": []
     }
   ]
 }
