@@ -455,6 +455,66 @@
       "verified": true,
       "logoURI": "https://res.cloudinary.com/dnu9h68sh/image/upload/v1763218697/turbosol_1_bog2ir.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Nirvana ANA",
+      "symbol": "ANA",
+      "address":"5DkzT65YJvCsZcot9L6qwkJnsBCPmKHjJz3QU7t7QeRW",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://raw.githubusercontent.com/nirvana-sid/metadata/refs/heads/main/ANA.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Nirvana prANA",
+      "symbol": "PRANA",
+      "address":"CLr7G2af9VSfH1PFZ5fYvB8WK1DTgE85qrVjpa8Xkg4N",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://raw.githubusercontent.com/nirvana-sid/metadata/refs/heads/main/prANA.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Samsara SOL",
+      "symbol": "NAVSOL",
+      "address":"navSnrYJkCxMiyhM3F7K889X1u8JFLVHHLxiyo6Jjqo",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://cdn.mayflower.market/navSOL.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Samsara cbBTC",
+      "symbol": "NAVBTC",
+      "address":"navB4nQ2ENP18CCo1Jqw9bbLncLBC389Rf3XRCQ6zau",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://cdn.mayflower.market/navCBBTC.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Samsara ETH",
+      "symbol": "NAVETH",
+      "address":"navEgA7saxpNqKcnJcWbCeCFMhSQtN8hQWQkK4h9scH",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://cdn.mayflower.market/navETH.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Samsara ZEC",
+      "symbol": "NAVZEC",
+      "address":"navZyeDnqgHBJQjHX8Kk7ZEzwFgDXxVJBcsAXd76gVe",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://cdn.mayflower.market/navZEC.png",
+      "tags": []
     }
   ]
 }
