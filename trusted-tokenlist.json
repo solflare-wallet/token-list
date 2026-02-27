@@ -515,6 +515,36 @@
       "verified": true,
       "logoURI": "https://cdn.mayflower.market/navZEC.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Wrapped Ethereum (Sollet)",
+      "symbol": "soETH",
+      "address":"2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+      "decimals": 6,
+      "verified": false,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Wrapped Bitcoin (Sollet)",
+      "symbol": "soBTC",
+      "address":"9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+      "decimals": 6,
+      "verified": false,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Satoshi BTC Stablecoin",
+      "symbol": "tSAT",
+      "address":"tSATdGGSLYBVCrm3pXiib8NmzKcB1iUdjRRseNGssxu",
+      "decimals": 2,
+      "verified": false,
+      "logoURI": "https://ipfs.filebase.io/ipfs/QmWsGc6JULhuvjkgJdMFVHQLnJzPv7nSwhL7G3zeVh9VuM",
+      "tags": []
     }
   ]
 }
