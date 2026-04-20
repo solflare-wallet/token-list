@@ -65,6 +65,14 @@
       "address": "3k5z8WWX6TkpgvDwwr2jDEAaMMwxX56Kj2Xs6HFRjafN",
       "decimals": 6,      
       "extensions": []
+    },
+    {
+      "chainId": 101,
+      "name": "JupVaultꓸio",
+      "symbol": "JUPV",
+      "address": "u14XL6rM783YnDwL9cXFnXx41DrtC5xM4K1gVfXiqz3",
+      "decimals": 6,      
+      "extensions": []
     }
   ]
 }
