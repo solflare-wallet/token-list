@@ -113,6 +113,14 @@
       "address": "92h1jidtCQQazLGxHiVa8r62vPimx6f76TnXJeLgHCrJ",
       "decimals": 9,      
       "extensions": []
+    },
+    {
+      "chainId": 101,
+      "name": "JupEarnꓸio",
+      "symbol": "JUPE",
+      "address": "GM9WxQpAi1SwPnc8YGyojZCFHxoCjp4AAzSQEQfQd5DD",
+      "decimals": 6,      
+      "extensions": []
     }
   ]
 }
