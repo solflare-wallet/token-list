@@ -73,6 +73,46 @@
       "address": "u14XL6rM783YnDwL9cXFnXx41DrtC5xM4K1gVfXiqz3",
       "decimals": 6,      
       "extensions": []
+    },
+    {
+      "chainId": 101,
+      "name": "JupVaultꓸio",
+      "symbol": "JUPV",
+      "address": "5JfaGjyxLU2U1nAQcNQVQ1HfhqsiHtn7GDXLdzdNket6",
+      "decimals": 6,      
+      "extensions": []
+    },
+    {
+      "chainId": 101,
+      "name": "JupVaultꓸio",
+      "symbol": "JUPV",
+      "address": "AS8UGXT73jxKt3nGzPzxZZHtepCm35EWHrP2UW6RsU2s",
+      "decimals": 6,      
+      "extensions": []
+    },
+    {
+      "chainId": 101,
+      "name": "JupVaultꓸio",
+      "symbol": "JUPV",
+      "address": "CuK7NcMxi71p3tEqMD92W2JTJzwZLgs6h2ZmKD8GnJLt",
+      "decimals": 6,      
+      "extensions": []
+    },
+    {
+      "chainId": 101,
+      "name": "xstox.pro Voucher",
+      "symbol": "XSTOX",
+      "address": "BtfZtcfhMXjtQWq5UTB6FdWa2BvmvAKxQZREgnEY345S",
+      "decimals": 9,      
+      "extensions": []
+    },
+    {
+      "chainId": 101,
+      "name": "ripsol.xyz",
+      "symbol": "RIPSOL",
+      "address": "92h1jidtCQQazLGxHiVa8r62vPimx6f76TnXJeLgHCrJ",
+      "decimals": 9,      
+      "extensions": []
     }
   ]
 }
