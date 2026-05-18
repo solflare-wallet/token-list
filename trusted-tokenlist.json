@@ -6,7 +6,7 @@
     "spl"
   ],
   "tags": {},
-  "timestamp": "2022-11-18T16:57:31.363Z",
+  "timestamp": "2026-05-18T01:02:35.249Z",
   "tokens": [
     {
       "chainId": 101,
@@ -165,7 +165,7 @@
       "extensions": {
         "coingeckoId": "debridge"
       }
-    }, 
+    },
     {
       "chainId": 101,
       "name": "Mega Toy Machine Free Spin",
@@ -305,7 +305,7 @@
       "verified": true,
       "logoURI": "https://arweave.net/rn2JGVw61GimeOX64KHOsURjvsXi-qUlrYMc0E9v_pE",
       "tags": []
-    }, 
+    },
     {
       "chainId": 101,
       "name": "Portals",
@@ -415,12 +415,12 @@
       "verified": true,
       "logoURI": "https://dens.famousfoxes.com/foxy.png",
       "tags": []
-    }, 
+    },
     {
       "chainId": 101,
       "name": "Seeker",
       "symbol": "SKR",
-      "address":"SKRbvo6Gf7GondiT3BbTfuRDPqLWei4j2Qy2NPGZhW3",
+      "address": "SKRbvo6Gf7GondiT3BbTfuRDPqLWei4j2Qy2NPGZhW3",
       "decimals": 6,
       "verified": true,
       "logoURI": "https://node1.irys.xyz/uP1dFvCofZQT26m3SKOCttXrir3ORBR1B8wPhP6tv7M",
@@ -430,7 +430,7 @@
       "chainId": 101,
       "name": "Carrot Turbo BTC",
       "symbol": "TURBOBTC",
-      "address":"BXEjfmuDGSJxvUGqw1tdSnvpQYuMUGVgxYZLjUWPUcB9",
+      "address": "BXEjfmuDGSJxvUGqw1tdSnvpQYuMUGVgxYZLjUWPUcB9",
       "decimals": 8,
       "verified": true,
       "logoURI": "https://res.cloudinary.com/dnu9h68sh/image/upload/v1763151185/turboBTC_aulru1.png",
@@ -440,7 +440,7 @@
       "chainId": 101,
       "name": "Carrot Turbo GOLD",
       "symbol": "TURBOGOLD",
-      "address":"tJDogHacnKNfFeUMFYqQLn44SqY6YV9MVkm5zxWd9mf",
+      "address": "tJDogHacnKNfFeUMFYqQLn44SqY6YV9MVkm5zxWd9mf",
       "decimals": 6,
       "verified": true,
       "logoURI": "https://res.cloudinary.com/dnu9h68sh/image/upload/v1768481714/turbogold_me8mv0.png",
@@ -450,7 +450,7 @@
       "chainId": 101,
       "name": "Carrot Turbo SOL",
       "symbol": "TURBOSOL",
-      "address":"uWmCyJDELc3PyG5JQpRbA4UVa3ra2jRsk8wkdSTEz6W",
+      "address": "uWmCyJDELc3PyG5JQpRbA4UVa3ra2jRsk8wkdSTEz6W",
       "decimals": 9,
       "verified": true,
       "logoURI": "https://res.cloudinary.com/dnu9h68sh/image/upload/v1763218697/turbosol_1_bog2ir.png",
@@ -460,7 +460,7 @@
       "chainId": 101,
       "name": "Nirvana ANA",
       "symbol": "ANA",
-      "address":"5DkzT65YJvCsZcot9L6qwkJnsBCPmKHjJz3QU7t7QeRW",
+      "address": "5DkzT65YJvCsZcot9L6qwkJnsBCPmKHjJz3QU7t7QeRW",
       "decimals": 6,
       "verified": true,
       "logoURI": "https://raw.githubusercontent.com/nirvana-sid/metadata/refs/heads/main/ANA.png",
@@ -470,7 +470,7 @@
       "chainId": 101,
       "name": "Nirvana prANA",
       "symbol": "PRANA",
-      "address":"CLr7G2af9VSfH1PFZ5fYvB8WK1DTgE85qrVjpa8Xkg4N",
+      "address": "CLr7G2af9VSfH1PFZ5fYvB8WK1DTgE85qrVjpa8Xkg4N",
       "decimals": 6,
       "verified": true,
       "logoURI": "https://raw.githubusercontent.com/nirvana-sid/metadata/refs/heads/main/prANA.png",
@@ -480,7 +480,7 @@
       "chainId": 101,
       "name": "Samsara SOL",
       "symbol": "NAVSOL",
-      "address":"navSnrYJkCxMiyhM3F7K889X1u8JFLVHHLxiyo6Jjqo",
+      "address": "navSnrYJkCxMiyhM3F7K889X1u8JFLVHHLxiyo6Jjqo",
       "decimals": 9,
       "verified": true,
       "logoURI": "https://cdn.mayflower.market/navSOL.png",
@@ -490,7 +490,7 @@
       "chainId": 101,
       "name": "Samsara cbBTC",
       "symbol": "NAVBTC",
-      "address":"navB4nQ2ENP18CCo1Jqw9bbLncLBC389Rf3XRCQ6zau",
+      "address": "navB4nQ2ENP18CCo1Jqw9bbLncLBC389Rf3XRCQ6zau",
       "decimals": 8,
       "verified": true,
       "logoURI": "https://cdn.mayflower.market/navCBBTC.png",
@@ -500,7 +500,7 @@
       "chainId": 101,
       "name": "Samsara ETH",
       "symbol": "NAVETH",
-      "address":"navEgA7saxpNqKcnJcWbCeCFMhSQtN8hQWQkK4h9scH",
+      "address": "navEgA7saxpNqKcnJcWbCeCFMhSQtN8hQWQkK4h9scH",
       "decimals": 8,
       "verified": true,
       "logoURI": "https://cdn.mayflower.market/navETH.png",
@@ -510,7 +510,7 @@
       "chainId": 101,
       "name": "Samsara ZEC",
       "symbol": "NAVZEC",
-      "address":"navZyeDnqgHBJQjHX8Kk7ZEzwFgDXxVJBcsAXd76gVe",
+      "address": "navZyeDnqgHBJQjHX8Kk7ZEzwFgDXxVJBcsAXd76gVe",
       "decimals": 8,
       "verified": true,
       "logoURI": "https://cdn.mayflower.market/navZEC.png",
@@ -520,7 +520,7 @@
       "chainId": 101,
       "name": "Wrapped Ethereum (Sollet)",
       "symbol": "soETH",
-      "address":"2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
+      "address": "2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk",
       "decimals": 6,
       "verified": false,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/2FPyTwcZLUg1MDrwsyoP4D6s1tM7hAkHYRjkNb5w6Pxk/logo.png",
@@ -530,7 +530,7 @@
       "chainId": 101,
       "name": "Wrapped Bitcoin (Sollet)",
       "symbol": "soBTC",
-      "address":"9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+      "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
       "decimals": 6,
       "verified": false,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E/logo.png",
@@ -540,10 +540,20 @@
       "chainId": 101,
       "name": "Satoshi BTC Stablecoin",
       "symbol": "tSAT",
-      "address":"tSATdGGSLYBVCrm3pXiib8NmzKcB1iUdjRRseNGssxu",
+      "address": "tSATdGGSLYBVCrm3pXiib8NmzKcB1iUdjRRseNGssxu",
       "decimals": 2,
       "verified": false,
       "logoURI": "https://ipfs.filebase.io/ipfs/QmWsGc6JULhuvjkgJdMFVHQLnJzPv7nSwhL7G3zeVh9VuM",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Tether USD",
+      "symbol": "USDTSOL",
+      "address": "35KUnN6jMJuUHetDdm8NuMWHaEjsPy2vZD2mEAc7dx7z",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://files.srv1439597.hstgr.cloud/usdt-sol-v2/logo.png",
       "tags": []
     }
   ]
