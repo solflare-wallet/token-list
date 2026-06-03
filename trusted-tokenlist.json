@@ -545,6 +545,16 @@
       "verified": false,
       "logoURI": "https://ipfs.filebase.io/ipfs/QmWsGc6JULhuvjkgJdMFVHQLnJzPv7nSwhL7G3zeVh9VuM",
       "tags": []
+    },
+     {
+      "chainId": 101,
+      "name": "Vatreni Token",
+      "symbol": "VATRENI",
+      "address":"EWhqwYvieNsYCbn5Mb71ZopXYqiMvHmSfV2dUYNpdv2M",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://drive.google.com/file/d/1RdlVPjPThoyV072Qpckge3jZlqwbjwrg/preview",
+      "tags": []
     }
   ]
 }
