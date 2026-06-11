@@ -546,7 +546,7 @@
       "logoURI": "https://ipfs.filebase.io/ipfs/QmWsGc6JULhuvjkgJdMFVHQLnJzPv7nSwhL7G3zeVh9VuM",
       "tags": []
     },
-    {
+     {
       "chainId": 101,
       "name": "Vatreni Token",
       "symbol": "VATRENI",
@@ -554,16 +554,6 @@
       "decimals": 9,
       "verified": true,
       "logoURI": "https://token.hns-cff.hr/assets/images/logo-white.jpeg",
-      "tags": []
-    },
-    {
-      "chainId": 101,
-      "name": "SpaceX xStock",
-      "symbol": "SPCXX",
-      "address":"Xs3oZwbHvqis4NYcf4YKWmEia2eC84wSiVrcYcTqpH8",
-      "decimals": 8,
-      "verified": true,
-      "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/SPCXx.png",
       "tags": []
     }
   ]
