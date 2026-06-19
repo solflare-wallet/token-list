@@ -555,6 +555,16 @@
       "verified": true,
       "logoURI": "https://token.hns-cff.hr/assets/images/logo-white.jpeg",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Arcium",
+      "symbol": "ARX",
+      "address":"ARXwZkNAtzPfdcoqQiduJn8EPv9fKiDfGn2KyggyDrFs",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://static.arcium.com/arx/icon.png",
+      "tags": []
     }
   ]
 }
