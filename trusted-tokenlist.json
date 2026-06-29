@@ -575,6 +575,26 @@
       "verified": true,
       "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/UUUUx.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Franklin Responsibly Sourced Gold ETF xStock",
+      "symbol": "FGDLX",
+      "address":"XspurdrAqbRJMQfAUEfh88QxE3XbSWxQGu3GneJR6e3",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/FGDLx.png",
+      "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Vanguard Total International Stock ETF xStock",
+      "symbol": "VXUSX",
+      "address":"XsLT5v4DAd1kwViPQh3SZiT5kzJfNLxzJxJN1dySZTe",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/VXUSx.png",
+      "tags": []
     }
   ]
 }
