@@ -565,6 +565,16 @@
       "verified": true,
       "logoURI": "https://static.arcium.com/arx/icon.png",
       "tags": []
+    },
+        {
+      "chainId": 101,
+      "name": "Energy Fuels Inc. xStock",
+      "symbol": "UUUUX",
+      "address":"XsYHvpLWfTfqdLkPbCc4eUT21eH521BRTXBypgzpEDH",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/UUUUx.png",
+      "tags": []
     }
   ]
 }
