@@ -595,6 +595,16 @@
       "verified": true,
       "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/VXUSx.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "DoubleZero",
+      "symbol": "2Z",
+      "address":"J6pQQ3FAcJQeWPPGppWRb4nM8jU3wLyYbRrLh7feMfvd",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://doublezero.xyz/2Z/icon.png",
+      "tags": []
     }
   ]
 }
