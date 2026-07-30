@@ -605,6 +605,16 @@
       "verified": true,
       "logoURI": "https://doublezero.xyz/2Z/icon.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Jersey Mike's Subs xStock",
+      "symbol": "JMKEX",
+      "address":"XsBeB5z2oA2fvaVim3rRbqHV4Cxxz9nNCjqoUtFooXY",
+      "decimals": 8,
+      "verified": true,
+      "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/JMKEx.png",
+      "tags": []
     }
   ]
 }
