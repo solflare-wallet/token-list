@@ -615,6 +615,6 @@
       "verified": true,
       "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/JMKEx.png",
       "tags": []
-    }
+    }, { "chainId": 101, "name": "dash_eats", "symbol": "DASHA", "address":"53uxQtB9pcjWvCHguz3JTTndvuKqGxhrD37EetnCpump", "decimals": 6, "verified": true, "logoURI": "https://cdn.prod.website-files.com/5f1458122ba25e70a3ff2bd0/6a7b4e8ccb1d3a79db460f46_dasha-icon-512.png", "tags": [] }
   ]
 }
