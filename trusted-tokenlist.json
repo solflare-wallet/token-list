@@ -615,6 +615,16 @@
       "verified": true,
       "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/JMKEx.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Deaton",
+      "symbol": "TRCH1",
+      "address":"DeatoN4UYU2B658Lh4ZV1VXy1u2ros32UEwnAtCRv4nB",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://image-converter.solana-cdn.com/aHR0cHM6Ly9nYXRld2F5LmlyeXMueHl6LzlrQzRWQnBUR2N3b2tidk1wQlFzRU1EZ1pycDJ4RmdTRktpUkYyMUQ4enZI",
+      "tags": []
     }
   ]
 }
