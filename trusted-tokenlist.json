@@ -624,6 +624,16 @@
       "verified": true,
       "logoURI": "https://gateway.irys.xyz/9kC4VBpTGcwokbvMpBQsEMDgZrp2xFgSFKiRF21D8zvH",
       "tags": []
-    }
-  ]
+    },
+   {
+  "chainId": 101,
+  "address": "AFNnpqWGngEe8FUrwcc7kPb2ooXZP9u6dzbfehBnoBT",
+  "symbol": "USDTW",
+  "name": "USDTW",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/afritz77/usdt-token/main/whale-logo.png",
+  "tags": ["meme"],
+  "extensions": {
+    "website": "https://afritz77.github.io/usdt-token/"
+  }
 }
