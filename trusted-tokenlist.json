@@ -99,19 +99,6 @@
     },
     {
       "chainId": 101,
-      "name": "deBridge",
-      "symbol": "DBR",
-      "address": "DBRiDgJAMsM95moTzJs7M9LnkGErpbv9v6CUR1DXnUu5",
-      "decimals": 6,
-      "verified": true,
-      "logoURI": "https://cdn.debridge.foundation/images/DBR.svg",
-      "tags": [],
-      "extensions": {
-        "coingeckoId": "debridge"
-      }
-    },
-    {
-      "chainId": 101,
       "name": "Save Finance",
       "symbol": "SAVE",
       "address": "SAVEaeeqeXNKYb4Lyx28DkUms5gyZ76vGa6fCfdzWfK",
@@ -165,16 +152,6 @@
       "extensions": {
         "coingeckoId": "debridge"
       }
-    },
-    {
-      "chainId": 101,
-      "name": "Mega Toy Machine Free Spin",
-      "symbol": "SPIN",
-      "address": "2rPXaUkuHJ9LEmWo82kFZxkYrWacnSyjf6tE941wGYx6",
-      "decimals": 0,
-      "verified": true,
-      "logoURI": "https://arweave.net/HoWZXGcdtimimWPBb4sKWyp_6MOm7iedBAJdsu7BQSM",
-      "tags": []
     },
     {
       "chainId": 101,
@@ -615,7 +592,8 @@
       "verified": true,
       "logoURI": "https://xstocks-metadata.backed.fi/logos/tokens/JMKEx.png",
       "tags": []
-    }, {    
+    },
+    {
       "chainId": 101,
       "name": "DEATON",
       "symbol": "TRCH1",
@@ -624,6 +602,45 @@
       "verified": true,
       "logoURI": "https://gateway.irys.xyz/9kC4VBpTGcwokbvMpBQsEMDgZrp2xFgSFKiRF21D8zvH",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "usd-coin"
+      }
+    },
+    {
+      "chainId": 101,
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "tether"
+      }
+    },
+    {
+      "chainId": 101,
+      "name": "Solana",
+      "symbol": "SOL",
+      "address": "So11111111111111111111111111111111111111112",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+      "tags": [],
+      "extensions": {
+        "coingeckoId": "solana"
+      }
     }
   ]
 }
