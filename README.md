@@ -15,7 +15,7 @@ ___
 
 ## Usage
 ```shell
-$ npm i
+$ pnpm install
 $ node index.js
 ```
 
