@@ -624,6 +624,15 @@
       "verified": true,
       "logoURI": "https://gateway.irys.xyz/9kC4VBpTGcwokbvMpBQsEMDgZrp2xFgSFKiRF21D8zvH",
       "tags": []
+    }, {
+      "chainId": 101,
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "4NPRRkpuTpdLrwxZW5B3TYwi9uWef1v7sGLDP73zXGz8",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
+      "tags": []
     }
   ]
 }
