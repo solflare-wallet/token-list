@@ -624,6 +624,16 @@
       "verified": true,
       "logoURI": "https://gateway.irys.xyz/9kC4VBpTGcwokbvMpBQsEMDgZrp2xFgSFKiRF21D8zvH",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Tokenised GBP",
+      "symbol": "tGBP",
+      "address": "2zMqyX4AYCk6mgy5UZ2S7zUaLxwERhK5WjqDzkPPbSpW",
+      "decimals": 9,
+      "verified": true,
+      "logoURI": "https://raw.githubusercontent.com/superset-finance/token-metadata/main/tGBP/logo.png",
+      "tags": []
     }
   ]
 }
