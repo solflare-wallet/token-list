@@ -634,6 +634,18 @@
       "verified": true,
       "logoURI": "https://raw.githubusercontent.com/superset-finance/token-metadata/main/tGBP/logo.png",
       "tags": []
+    },
+    {
+      "chainId": 101,
+      "name": "Jiggysaurus",
+      "symbol": "JIGGY",
+      "address": "6DFmX1e5meqxoa5pJxCNdKgxHZwHqbiszWH6SVYkpump",
+      "decimals": 6,
+      "verified": true,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreihfih3bmhnszvudxui63zlselt5lhhnnargcmyz4lcc6leljipumm",
+      "tags": [
+        "spl-token-2022"
+      ]
     }
   ]
 }
